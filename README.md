@@ -34,6 +34,8 @@ To run the project, perform the following steps after cloning the repository:
 
 To play the game, navigate to the URL displayed in the terminal after starting the web client. Enter a nickname and join the game. If the AI script is running, other players will be present to play against.
 
+![Gameplay](./assets/browsergame.png)
+
 ## Included:
 
 - Presentation (HTML)
