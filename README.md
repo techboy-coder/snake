@@ -3,7 +3,8 @@
 | <img src="./assets/titleimage.png" alt="drawing" width="300"/> | This project is a multiplayer browser-based Snake game that utilizes artificial intelligence to train bots to play the game through the application of deep reinforcement learning. The web client is built utilizing the legacy version of Svelte JS and the game server is constructed using the Golang programming language. The bots are trained using the stable baselines 3 library in Python. |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-_Gameplay video: https://youtu.be/Tj3k8fSNuNA_
+- _Gameplay video: https://youtu.be/Tj3k8fSNuNA_
+- **Thesis Paper:** [](https://github.com/techboy-coder/snake/thesis.pdf)
 
 ## Overview
 
