@@ -34,6 +34,11 @@ To run the project, perform the following steps after cloning the repository:
 
 To play the game, navigate to the URL displayed in the terminal after starting the web client. Enter a nickname and join the game. If the AI script is running, other players will be present to play against.
 
+## Included:
+
+- Presentation (HTML)
+- Thesis: **Teaching bots to play a game using artificial intelligence** - _Applied deep reinforcement learning in a realtime game_
+
 ---
 
 Licensed under the MIT License. See LICENSE file in the project root for full license information.
