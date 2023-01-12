@@ -1,0 +1,9 @@
+# This works on mac os
+build:
+	go build app.go
+
+run:
+	just build; echo "Done Building -> Running"; ./app.exe
+
+dev:
+	watchexec -r -c -e js,css,html,go just run
