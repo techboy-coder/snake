@@ -7,13 +7,12 @@ _Gameplay video: https://youtu.be/Tj3k8fSNuNA_
 
 ## Overview
 
-This project is comprised of three primary components:
+| This project is comprised of three primary components: | <img src="./assets/gamearchitecture.png" alt="drawing" width="600"/> |
+| ------------------------------------------------------ | -------------------------------------------------------------------- |
 
 - The web client, which is responsible for rendering the game interface for players.
 - The game server, which handles the game logic and facilitates communication between clients.
-- The training script, which employs deep reinforcement learning to train the bots to play the game.
-
-<img src="./assets/gamearchitecture.png" alt="drawing" width="600"/>
+- The training script, which employs deep reinforcement learning to train the bots to play the game
 
 ## Technologies
 
