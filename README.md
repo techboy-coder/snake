@@ -36,4 +36,5 @@ To play the game, navigate to the URL displayed in the terminal after starting t
 ---
 
 Licensed under the MIT License. See LICENSE file in the project root for full license information.
+
 © 2023 - techboy-coder – (https://github.com/techboy-coder)
